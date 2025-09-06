@@ -30,5 +30,3 @@ It helps you manage your accounts, track transactions, and visualize spending tr
 - **AI**: Google Generative AI (Gemini) for receipt scanning
 - **Deployment**: [Vercel](https://vercel.com)
 
----thub.com/your-username/wealth.git
-   cd wealth
